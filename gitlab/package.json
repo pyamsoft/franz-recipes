@@ -1,0 +1,13 @@
+{
+  "id": "gitlab",
+  "name": "GitLab",
+  "version": "1.0.0",
+  "description": "GitLab",
+  "main": "index.js",
+  "author": "pyamsoft <developer.pyamsoft@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://gitlab.com/dashboard/activity/",
+    "hasNotificationSound": true
+  }
+}

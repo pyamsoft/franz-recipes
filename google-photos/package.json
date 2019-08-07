@@ -1,0 +1,13 @@
+{
+  "id": "google-photos",
+  "name": "Google Photos",
+  "version": "1.0.0",
+  "description": "Google Photos",
+  "main": "index.js",
+  "author": "pyamsoft <developer.pyamsoft@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://photos.google.com",
+    "hasNotificationSound": true
+  }
+}
