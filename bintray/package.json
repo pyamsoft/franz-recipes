@@ -1,0 +1,13 @@
+{
+  "id": "bintray",
+  "name": "Bintray",
+  "version": "1.0.0",
+  "description": "Bintray",
+  "main": "index.js",
+  "author": "pyamsoft <developer.pyamsoft@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://bintray.com",
+    "hasNotificationSound": true
+  }
+}
