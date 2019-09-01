@@ -1,13 +1,13 @@
 {
-  "id": "bintray",
-  "name": "Bintray",
+  "id": "blogger",
+  "name": "Blogger",
   "version": "1.0.0",
-  "description": "Bintray",
+  "description": "Blogger",
   "main": "index.js",
   "author": "pyamsoft <developer.pyamsoft@gmail.com>",
   "license": "MIT",
   "config": {
-    "serviceURL": "https://bintray.com",
+    "serviceURL": "https://blogger.com",
     "hasNotificationSound": true
   }
 }
