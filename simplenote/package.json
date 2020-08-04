@@ -1,0 +1,13 @@
+{
+  "id": "simplenote",
+  "name": "Simplenote",
+  "version": "1.0.0",
+  "description": "Simplenote",
+  "main": "index.js",
+  "author": "pyamsoft <developer.pyamsoft@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://app.simplenote.com",
+    "hasNotificationSound": true
+  }
+}
