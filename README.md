@@ -18,7 +18,7 @@ and then restart Franz
 MIT
 
 ```
-Copyright 2019 Peter Kenji Yamanaka
+Copyright 2020 Peter Kenji Yamanaka
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
