@@ -1,17 +1,21 @@
-# Franz Recipes
+# Franz/Ferdi Recipes
 
-Custom Franz Recipes for various services.  
+Custom Franz/Ferdi Recipes for various services.  
 These recipes are meant to be used as `development` recipes,  
 but they are extremely barebones and in many cases go only so  
-far as to load the webpage in Franz.
+far as to load the webpage in Franz/Ferdi.
 
 ## How to Use
 
 Copy the folders for the services you want to use to:  
 `${XDG_CONFIG_HOME:-${HOME}/.config}/Franz/recipes/dev`  
+
+or
+
+`${XDG_CONFIG_HOME:-${HOME}/.config}/Ferdi/recipes/dev`  
 and then restart Franz
 
-## How to create your own Franz recipes:
+## How to create your own Franz/Ferdi recipes:
 [Read the documentation](https://github.com/meetfranz/plugins)
 
 # License
