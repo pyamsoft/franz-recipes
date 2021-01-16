@@ -1,0 +1,13 @@
+{
+  "id": "simplelogin",
+  "name": "SimpleLogin",
+  "version": "1.0.0",
+  "description": "SimpleLogin",
+  "main": "index.js",
+  "author": "pyamsoft <developer.pyamsoft@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://simplelogin.io",
+    "hasNotificationSound": true
+  }
+}
